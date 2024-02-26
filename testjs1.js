@@ -1,7 +1,7 @@
 // JavaScript source code
 
 
-<!DOCTYPE html >
+<!DOCTYPE html>
 <html>
     <head>
         <H1>
