@@ -1,6 +1,3 @@
-// JavaScript source code
-
-
 <!DOCTYPE html>
 <html>
     <head>
